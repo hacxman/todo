@@ -1,0 +1,4 @@
+compile with ghc --make todo.hs
+program stores todo list in ~/.mytodo
+
+warning: highly experimental, don't be mad at me if you lost your todo list
